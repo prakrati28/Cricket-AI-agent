@@ -1,0 +1,13 @@
+streamlit
+SpeechRecognition
+gtts
+faiss-cpu
+sentence-transformers
+groq
+speechrecognition
+numpy
+audio-recorder-streamlit
+soundfile
+
+
+
