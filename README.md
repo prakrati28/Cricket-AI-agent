@@ -11,8 +11,8 @@ CricBot is an AI-powered cricket assistant built using Streamlit, Groq API, FAIS
 
 
 ## Running the Application
-sh
-streamlit run app.py
+
+https://cricket-ai-agent-p3wflicens9nujgzjpoux7.streamlit.app/
 
 
 ## How It Works
